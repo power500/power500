@@ -1,9 +1,9 @@
 img#mspalogo{opacity:0; } 
-
+#main{color:#FFFFFF,background:#000000;}
 header {background: #4f5354 url(http://i.imgur.com/Rro8W5w.gif)no-repeat; }
-
-#col1{ background: #000000}
-#col2{ background: #000000}
+#main
+#col1{ background: #000000;}
+#col2{ background: #000000;}
 #container1 {     background: #ffffff; } 
 
 #container2 {     background: #ffffff; } 
