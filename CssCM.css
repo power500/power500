@@ -1,3 +1,18 @@
-img#mspalogo {     opacity:0; } 
+img#mspalogo{opacity:0; } 
 
-header {     background: #4f5354 url(http://i.imgur.com/Rro8W5w.gif)no-repeat; }
+header {background: #4f5354 url(http://i.imgur.com/Rro8W5w.gif)no-repeat; }
+
+#col1{ background: #000000}
+#col2{ background: #000000}
+#container1 {     background: #ffffff; } 
+
+#container2 {     background: #ffffff; } 
+
+#container3 {     background: #ffffff; } 
+
+
+a:link {     color: #ffffff !important; } 
+
+a:visited {     color: #8d7c7c !important; } 
+
+a:hover, a:active { color:#ff0000 !important; }
