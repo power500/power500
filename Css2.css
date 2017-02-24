@@ -1,0 +1,102 @@
+header #mspalogo {     opacity:0; } 
+
+header {     background: #4f5354 url(https://www.dropbox.com/s/amzjqgybxtxevxq/RegiCss.gif?raw=1)no-repeat; }
+
+#p51, #p52, #p53, #p53, #p54, #p55, #p56,#p57, #p58,#p60,#p61,#p62,#p63
+{background: #FFCD00 !important;}
+
+#p59,#p64,#p67
+{background: #000000 !important;}
+
+#p66
+{background: #00AAFF !important;}
+
+#p59,#p64,#p67
+{color: #FFFFFF !important;}
+
+#p51 article.adventurepage, #p52 article.adventurepage, #p53 article.adventurepage, #p53 article.adventurepage, #p54 article.adventurepage, #p55 article.adventurepage, #p56 article.adventurepage, #p57 article.adventurepage, #p58 article.adventurepage, #p60 article.adventurepage,#p61 article.adventurepage,#p62 article.adventurepage,#p63 article.adventurepage
+{background: #FFF221 !important;}
+
+#p59 article.adventurepage,#p64 article.adventurepage,#p67 article.adventurepage
+{background: #000000 !important;}
+
+#p66 article.adventurepage
+{background: #4BDEFF !important;}
+
+#p51 #articleholder, #p52 #articleholder, #p53 #articleholder, #p53 #articleholder, #p54 #articleholder, #p55 #articleholder, #p56 #articleholder, #p57 #articleholder, #p58 #articleholder, #p60 #articleholder, #p61 #articleholder, #p62 #articleholder,#p63 #articleholder
+{background: #FFE121 !important;}
+
+#p59 #articleholder,#p64 #articleholder,#p67 #articleholder
+{background: #000000 !important;}
+
+#p66 #articleholder
+{background: #4BDEFF !important;}
+
+#p51 div#main, #p52 div#main, #p53 div#main, #p53 div#main, #p54 div#main, #p55 div#main, #p56 div#main, #p57 div#main, #p58 div#main, #p60 div#main, #p61 div#main, #p62 div#main,#p63 div#main
+{background: #FFE121 !important;}
+
+#p59 div#main,#p64 div#main,#p67 div#main
+{background: #000000 !important;}
+
+#p66 div#main
+{background: #4BDEFF !important;}
+
+#p51 #container1, #p52 #container1, #p53 #container1, #p53 #container1, #p54 #container1, #p55 #container1, #p56 #container1, #p57 #container1, #p58 #container1, #p60 #container1, #p61 #container1,#p62 #container1,#p63 #container1
+{background: #FFE121 !important;}
+
+#p59 #container1,#p64 #container1,#p67 #container1
+{background: #000000 !important;}
+
+#p66 #container1
+{background: #4BDEFF !important;}
+
+#p51 #container2, #p52 #container2, #p53 #container2, #p53 #container2, #p54 #container2, #p55 #container2, #p56 #container2, #p57 #container2, #p58 #container2, #p60 #container2, #p61 #container2,#p62 #container2,#p63 #container2
+{background: #FFE121 !important;}
+
+#p59 #container2,#p64 #container2,#p67 #container2
+{background: #000000 !important;}
+
+#p66 #container2
+{background: #4BDEFF !important;}
+
+#p51 #container3, #p52 #container3, #p53 #container3, #p53 #container3, #p54 #container3, #p55 #container3, #p56 #container3, #p57 #container3, #p58 #container3, #p60 #container3, #p61 #container3,#p62 #container3,#p63 #container3
+{background: #FFE121 !important;}
+
+#p59 #container3,#p64 #container3,#p67 #container3
+{background: #000000 !important;}
+
+#p66 #container3
+{background: #4BDEFF !important;}
+
+#p51 section#pagelist, #p52 section#pagelist, #p53 section#pagelist, #p53 section#pagelist, #p54 section#pagelist, #p55 section#pagelist, #p56 section#pagelist, #p57 section#pagelist, #p58 section#pagelist, #p60 section#pagelist, #p61 section#pagelist,#p62 section#pagelist,#p63 section#pagelist
+{background: #FFE121 !important;}
+
+#p59 section#pagelist,#p64 section#pagelist,#p67 section#pagelist
+{background: #000000 !important;}
+
+#p66 section#pagelist
+{background: #4BDEFF !important;}
+
+
+#p51 section#viewall, #p52 section#viewall, #p53 section#viewall, #p53 section#viewall, #p54 section#viewall, #p55 section#viewall, #p56 section#viewall, #p57 section#viewall, #p58 section#viewall, #p60 section#viewall, #p61 section#viewall,#p62 section#viewall,#p63 section#viewall
+{background: #FFE121 !important;}
+
+#p59 section#viewall,#p64 section#viewall,#p67 section#viewall
+{background: #000000 !important;}
+
+#p66 section#viewall
+{background: #4BDEFF !important;}
+
+
+
+#favoriting h1 {
+    background: url(https://www.dropbox.com/s/yh0ft3a6pmgxpiw/kPssFB9.gif?raw=1) top center no-repeat;
+    padding: 6px
+}
+
+
+
+
+#favoriting h1 a img,#favoriting h1 img {   
+    opacity: 0
+}
